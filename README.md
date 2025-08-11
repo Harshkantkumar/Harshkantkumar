@@ -25,10 +25,12 @@
     
     Language models (LLMs), and AI creativity applications using OpenAI, HuggingFace & more.
 
+  ---
+
+### 📶Stats
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshkantkumar\&layout=compact)
 
 
-  ![Harshkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshkantkumar\&show_icons=true\&theme=radical)
-
+ ![Harshkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshkantkumar\&show_icons=true\&theme=radical)
 
