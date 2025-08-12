@@ -8,6 +8,9 @@
 - 🛠️ Currently exploring edge AI , GenAI
 - ✨ Passionate about solving real-world problems with smart systems.
 - 💬 Always open to collaborate on impactful ML/AI projects.
+- 💻 Learning : Full-Stack :zap: | Open-Source :fire:	
+- 💫 Hobbies : Books :books: | Music :headphones:
+- 🙇‍♂️ Side hustles : Editing , Annimmation , Youtube  
 
 ---
 
@@ -33,4 +36,5 @@
 
 
  ![Harshkant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshkantkumar\&show_icons=true\&theme=radical)
+
 
